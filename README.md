@@ -2,7 +2,7 @@
 
 ## Introduce
 Use python language with win10toast library and requests to create coin price notification bot
-
+API: cryptocompare.com
 ![Capture](https://user-images.githubusercontent.com/125549537/220895375-5183b0cd-1de6-4770-b63b-b7c905620ca2.PNG)
 
 
