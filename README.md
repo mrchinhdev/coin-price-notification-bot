@@ -1,4 +1,4 @@
-# coin-price-notification-bot
+# [Python] Coin price notification bot
 
 ## Introduce
 Use python language with win10toast library and requests to create coin price notification bot
